@@ -1,0 +1,4 @@
+flask==2.2.3
+Werkzeug==2.2.3
+typings==0.4.25
+flask_cors==1.10.3

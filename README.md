@@ -18,3 +18,19 @@ Create a backend (preferably using [GoLang](https://go.dev/), but not required) 
 1. Within reason, treat your solution as if it would become a production system.
 1. If you have any questions, feel free to contact us at code_challenge@scoir.com
 
+## How-To
+
+### Python Backend
+- Open `backend` directory and run `make init-local`
+- To run tests type `make tests`
+
+
+### React Frontend
+- Open `frontend` directory and run `make init-local`
+- To run tests type `make tests`
+
+
+## Assumptions
+- Node v16 or higher is installed
+- Python 3 is installed
+- Assumes prod user repo with DB will be implemented later
